@@ -11,7 +11,7 @@ public class ConversionTypes {
 
         //example Explicit conversion
         int valueConvertedToint = (int) valueConvertedToAnotherType;
-        System.out.println("Value Converted Type Explicit: "+valueConvertedToAnotherType);
+        System.out.println("Value Converted Type Explicit: "+valueConvertedToint);
 
     }
 }
